@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting_Tool.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting_Tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.iml" />
+    </modules>
+  </component>
+</project>
